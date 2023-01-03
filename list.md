@@ -7,5 +7,6 @@
 
 ### Stimulator
 
-| &nbsp;BLE Address &nbsp; | BLE Pin | Serial Number | User | Comments |
-|:-:|-|:-:|:-:|-|
+| &nbsp;BLE Address &nbsp; | BLE Pin | Serial Number | User |
+|:-:|-|:-:|:-:|
+|7:C5|547236|ENG009|Erick Orantes|
