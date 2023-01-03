@@ -1,9 +1,11 @@
 ### Phone/Tablet
 
-| &nbsp;Model #&nbsp; | Model Name | User | Tester| Comments |
-|:-:|-|:-:|:-:|-|
+| &nbsp;Model Name #&nbsp; | OS | Model Number | User |
+|:-:|-|:-:|:-:|
+|Galaxy Tab A7 Lite|Android 12|SM-T227U|Erick Orantes|
+
 
 ### Stimulator
 
-| &nbsp;Model #&nbsp; | Model Name | User | Tester| Comments |
+| &nbsp;BLE Address &nbsp; | BLE Pin | Serial Number | User | Comments |
 |:-:|-|:-:|:-:|-|
