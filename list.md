@@ -3,9 +3,12 @@
 | &nbsp;Model Name &nbsp; | OS | Model Number | User |
 |:-:|-|:-:|:-:|
 |Galaxy Tab A7 Lite|Android: 12|SM-T227U|Erick Orantes|
-|Pixel 3a XL|Android: 12|G020A|Ken Aquino|
-
 |iPhone SE|iOS: 15|MX9K2LL/A|Erick Orantes|
+|Pixel 3a XL|Android: 12|G020A|Ken Aquino|
+|iPhone 8 Plus|iOS: 15|NQ982LL/A|Ken Aquino|
+|Pixel XL|Android: 10|G-2PW2100|No User|
+|Pixel 4|Android: 10|G0201|No User|
+
 
 
 
