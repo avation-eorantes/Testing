@@ -8,7 +8,9 @@
 |iPhone 8 Plus|iOS: 15|NQ982LL/A|Ken Aquino|
 |Galaxy Tab A7 Lite|Android: 12|SM-T227U|Pooria Soltavi|
 |Pixel XL|Android: 10|G-2PW2100|No User|
-|Pixel 4|Android: 10|G0201|No User|
+|Pixel 4|Android: 11|G0201 (3)|No User|
+|Pixel 3a|Android: 12|G020E (4)|No User|
+
 
 
 
