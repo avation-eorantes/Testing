@@ -6,6 +6,7 @@
 |iPhone SE|iOS: 15|MX9K2LL/A|Erick Orantes|
 |Pixel 3a XL|Android: 12|G020A|Ken Aquino|
 |iPhone 8 Plus|iOS: 15|NQ982LL/A|Ken Aquino|
+|Galaxy Tab A7 Lite|Android: 12|SM-T227U|Pooria Soltavi|
 |Pixel XL|Android: 10|G-2PW2100|No User|
 |Pixel 4|Android: 10|G0201|No User|
 
@@ -20,6 +21,8 @@
 |6:6C|569637|100112|Erick Orantes|
 |F:FC|771541|100133|No User|
 |D:3C|710926|100131|Ken Aquino|
+|B:3E|243051|100155|Pooria Soltavi|
+
 
 
 
