@@ -4,8 +4,8 @@
 |:-:|-|:-:|:-:|:-:|
 |Galaxy Tab A7 Lite|Android: 12|SM-T227U|#7|Erick Orantes|
 |iPhone SE|iOS: 15|MX9K2LL/A|#6|Erick Orantes|
-|Pixel 3a XL|Android: 12|G020A||Ken Aquino|
-|iPhone 8 Plus|iOS: 15|NQ982LL/A||Ken Aquino|
+|Pixel 3a XL|Android: 12|G020A|#8|Ken Aquino|
+|iPhone 8 Plus|iOS: 15|NQ982LL/A|#9|Ken Aquino|
 |Galaxy Tab A7 Lite|Android: 12|SM-T227U||Pooria Soltavi|
 |Pixel XL|Android: 10|G-2PW2100|#1|No User|
 |Pixel 5a|Android: 11|G1F8F|#2|No User|
