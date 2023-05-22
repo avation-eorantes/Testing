@@ -4,7 +4,7 @@
 |:-:|-|:-:|:-:|:-:|
 |Pixel XL|Android: 10|G-2PW2100|#1|No User|
 |Pixel 5a|Android: 11|G1F8F|#2|No User|
-|Pixel 4|Android: 11|G0201|#3|No User|
+|Pixel 4|Android: 10|G0201|#3|No User|
 |Pixel 3a|Android: 12|G020E|#4|No User|
 |Pixel 4|Android: 11|G0201|#5|No User|
 |iPhone SE|iOS: 15|MX9K2LL/A|#6|Erick Orantes|
