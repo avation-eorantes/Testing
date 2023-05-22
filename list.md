@@ -11,7 +11,7 @@
 |Galaxy Tab A7 Lite|Android: 12|SM-T227U|#7|No User|
 |Pixel 3a XL|Android: 12|G020A|#8|Ken Aquino|
 |iPhone 8 Plus|iOS: 15|NQ982LL/A|#9|Ken Aquino|
-|Galaxy Tab A7 Lite|Android: 12|SM-T227U|#10|No User|
+|Galaxy Tab A7 Lite|Android: 12|SM-T227U|#10|Erick Orantes|
 |Galaxy Tab A7 Lite|Android: 13|SM-T227U|#11|No User|
 |Galaxy Tab A (8.0, 2019)|Android: 11|SM-T290|#12|Long term testing|
 |Galaxy Tab A (8.0, 2019)|Android: 11|SM-T290|#13|Long term testing|
